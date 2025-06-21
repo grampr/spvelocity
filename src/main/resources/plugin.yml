@@ -1,0 +1,12 @@
+name: Spvelocity
+main: net.nehaverse.spvelocity.Spvelocity
+version: 1.0
+api-version: 1.12
+commands:
+  proxy:
+    description: Velocity プロキシを start/stop/status
+    usage: /proxy <start|stop|status>
+    permission: spvelocity.command
+permissions:
+  spvelocity.command:
+    default: op

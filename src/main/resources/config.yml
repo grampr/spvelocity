@@ -1,0 +1,4 @@
+velocity:
+  download-url: "https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/514/downloads/velocity-3.4.0-SNAPSHOT-514.jar"
+  jar-name: "velocity.jar"
+  port: 25577
